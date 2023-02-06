@@ -1,3 +1,3 @@
-A "moovie search" application.
+A "moovie search" application for educational goals.
 
-Educational goals: React JavaScript framework.
+Subject of learning: React JavaScript framework.
